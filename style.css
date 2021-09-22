@@ -6,4 +6,9 @@ body {
 h1 {
   color: aliceblue;
 }
-.main
+.main-header {
+  color: rgb(230, 22, 202);
+}
+#id {
+  color: pink;
+}
