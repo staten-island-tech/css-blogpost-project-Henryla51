@@ -2,6 +2,10 @@ body {
   background-color: rgba(255, 0, 0, 0.609);
   color: rgba(2, 0, 128, 0.705);
   font-size: 24 px;
+  background-image: url(images/photo.jpg);
+  background-position: center;
+  background-size: cover;
+  font-family: "Rubik", sans-serif;
 }
 .main-header {
   color: rgba(230, 22, 202, 0.924);
@@ -10,4 +14,22 @@ body {
   margin: 60px auto;
   padding: 50px 60px;
   border: 5px solid blue;
+  font-size: 100px;
+}
+.first-blog {
+  text-align: center;
+  border: 3px saddlebrown;
+  padding: 50px 60px;
+  margin: 60px auto;
+  font-size: 50px;
+}
+.second-blog {
+  text-align: center;
+  color: beige;
+  font-size: 50px;
+}
+.third-blog {
+  text-align: center;
+  color: gold;
+  font-size: 50px;
 }
