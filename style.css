@@ -2,7 +2,7 @@ body {
   background-color: rgba(255, 0, 0, 0.609);
   color: rgba(2, 0, 128, 0.705);
   font-size: 24 px;
-  background-image: url(images/photo.jpg);
+  background-image: url(images/background\ image.jpg);
   background-position: center;
   background-size: cover;
   font-family: "Rubik", sans-serif;
@@ -23,10 +23,12 @@ body {
   padding: 50px 60px;
   margin: 60px auto;
   font-size: 50px;
+  width: -50px;
+  color: pink;
 }
 .second-blog {
   text-align: center;
-  color: beige;
+  color: rgba(240, 113, 10, 0.801);
   font-size: 24px;
   margin-bottom: 50px;
 }
@@ -34,4 +36,14 @@ body {
   text-align: center;
   color: gold;
   font-size: 24px;
+  border: 5px solid rgb(243, 5, 5);
+}
+#Anime {
+  width: 650px;
+}
+#Fnatic {
+  width: 650px;
+}
+#Friends {
+  width: 650px;
 }
