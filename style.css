@@ -16,6 +16,7 @@ body {
   border: 5px solid blue;
   font-size: 100px;
 }
+
 .first-blog {
   text-align: center;
   border: 3px saddlebrown;
@@ -26,10 +27,11 @@ body {
 .second-blog {
   text-align: center;
   color: beige;
-  font-size: 50px;
+  font-size: 24px;
+  margin-bottom: 50px;
 }
 .third-blog {
   text-align: center;
   color: gold;
-  font-size: 50px;
+  font-size: 24px;
 }
