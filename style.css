@@ -17,7 +17,9 @@ body {
   border: 5px solid blue;
   font-size: 100px;
 }
-
+.blog {
+  text-align: center;
+}
 .first-blog {
   text-align: center;
   border: 10px rgb(9, 224, 153);
@@ -34,12 +36,17 @@ body {
   color: rgba(240, 113, 10, 0.801);
   font-size: 24px;
   padding: 50px 200px 10px 200px;
+  border: solid black 10px;
+  border-radius: 200px;
 }
 
 .third-blog {
   text-align: center;
   color: gold;
   font-size: 24px;
+  border: solid blueviolet 10px;
+  border-radius: 200px;
+  padding: 50px 200px 10px 200px;
 }
 
 #Anime {
